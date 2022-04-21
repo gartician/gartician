@@ -9,3 +9,7 @@ When provided the chance, I develop/contribute to open-source bioinformatic soft
 - 💬 Ask me about: bioinformatics, epigenetic analyses, oncology, informational interviews
 - 📫 How to reach me: kongga2017@gmail.com
 - ⚡ Fun fact: black cats are very photogenic 🐈
+
+[![gartician's GitHub stats](https://github-readme-stats.vercel.app/api?username=gartician&theme=gradient&bg_color=30,440154FF,39568CFF,1F968BFF,73D055FF,FDE725FF&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gartician&hide=javascript,html,jupyter%20%notebook&layout=compact&bg_color=000000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
