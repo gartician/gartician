@@ -17,12 +17,19 @@ When provided the chance, I develop/contribute to open-source bioinformatic soft
 **Bioinformatic Assays** 🧬
 
 [![DNA](https://img.shields.io/badge/DNA-DNA--Seq-red?style=for-the-badge)](https://shields.io/)
+
 [![CHIP](https://img.shields.io/badge/DNA-ChIP--Seq-orange?style=for-the-badge)](https://shields.io/)
+
 [![ATAC](https://img.shields.io/badge/DNA-ATAC--Seq-yellow?style=for-the-badge)](https://shields.io/)
+
 [![CT](https://img.shields.io/badge/DNA-CUT%26TAG-green?style=for-the-badge)](https://shields.io/)
+
 [![CR](https://img.shields.io/badge/DNA-CUT%26RUN-brightgreen?style=for-the-badge)](https://shields.io/)
+
 [![RNA-Seq](https://img.shields.io/badge/RNA-RNA--Seq-blue?style=for-the-badge)](https://shields.io/)
+
 [![scRNA-Seq](https://img.shields.io/badge/RNA-scRNA--Seq-blueviolet?style=for-the-badge)](https://shields.io/)
+
 [![CITE-Seq](https://img.shields.io/badge/RNA-CITE--Seq-red?style=for-the-badge)](https://shields.io/)
 
 # What I'm doing now
