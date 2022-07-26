@@ -2,7 +2,7 @@
 
 Hi, I'm Garth and welcome to this unique corner of the internet! I am a classically trained biochemist who joined the ~dark side~ computational side of biology. In my day-to-day position, I help life scientists understand the meaning of their sequencing data, and how that relates to their project's hypotheses. In the Maxson Lab where I currently work, I provide bioinformatic support to all lab members and write [pipelines](github.com/maxsonBraunLab) to analyze new sequencing datasets. I am always interested in the latest bioinformatic tools and trends, and I enjoy working with biologists at all levels of the computational spectrum. 
 
-When provided the chance, I develop/contribute to open-source bioinformatic software such as [GoPeaks](https://github.com/maxsonBraunLab/gopeaks), [MultiQC](https://github.com/ewels/MultiQC), and [HINT-ATAC](https://github.com/CostaLab/reg-gen). Get to know me more by visiting my [website](https://gartician.github.io/) and my [twitter](https://twitter.com/KongGarth)! 
+When provided the chance, I develop/contribute to open-source bioinformatic software such as [GoPeaks](https://github.com/maxsonBraunLab/gopeaks), [CITEViz](https://github.com/maxsonBraunLab/CITEViz), [MultiQC](https://github.com/ewels/MultiQC), and [HINT-ATAC](https://github.com/CostaLab/reg-gen). Get to know me more by visiting my [website](https://gartician.github.io/) and my [twitter](https://twitter.com/KongGarth)! 
 
 # Technical Skills
 
