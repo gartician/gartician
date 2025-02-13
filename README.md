@@ -4,6 +4,10 @@ Hi, I'm Garth and welcome to this unique corner of the internet! I am a classica
 
 When provided the chance, I develop/contribute to open-source bioinformatic software such as [GoPeaks](https://github.com/maxsonBraunLab/gopeaks), [CITEViz](https://github.com/maxsonBraunLab/CITEViz), [MultiQC](https://github.com/ewels/MultiQC), and [HINT-ATAC](https://github.com/CostaLab/reg-gen). Get to know me more by visiting my [website](https://gartician.github.io/) and my [twitter](https://twitter.com/KongGarth)! 
 
+# For potential employers
+
+To get an example of my code, please check out my contributions to the [maxsonBraunLab](github.com/maxsonBraunLab) GitHub repository. My code has generated results that can be found in several publications and grants coming from the amazing Maxson and Braun Lab!
+
 # Technical Skills
 
 **Programming Languages** 💻
