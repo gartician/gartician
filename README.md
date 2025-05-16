@@ -6,7 +6,7 @@ When provided the chance, I develop/contribute to open-source bioinformatic soft
 
 # For potential employers
 
-To get an example of my code, please check out my contributions to the [maxsonBraunLab](github.com/maxsonBraunLab) GitHub repository. My code has generated results that can be found in several publications and grants coming from the amazing Maxson and Braun Lab!
+To get an example of my code, please check out my contributions to the [maxsonBraunLab](https://github.com/maxsonBraunLab/) GitHub repository. My code has generated results that can be found in several publications and grants coming from the amazing Maxson and Braun Lab!
 
 # Technical Skills
 
